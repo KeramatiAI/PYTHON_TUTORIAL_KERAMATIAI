@@ -12,3 +12,7 @@ print(f"d:{d}, e:{e} , f:{f}")
 # Type 3
 g,h,i = 10,20,30
 print(f"g:{g}, h:{h} , i:{i}")
+
+# Type 4
+k,l,m = 1,2,"Zara Ali"
+print(f"k:{k}, l:{l} , m:{m}")
