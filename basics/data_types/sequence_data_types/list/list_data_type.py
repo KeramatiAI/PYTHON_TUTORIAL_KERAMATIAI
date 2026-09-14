@@ -8,4 +8,6 @@ print (list[2:])        # Prints elements starting from 3rd element
 print (tinylist * 2)    # Prints list two times
 print (list + tinylist) # Prints concatenated lists
 
-print(type(list))
+print(type(type(list)))
+print(type(type(tinylist)))
+
