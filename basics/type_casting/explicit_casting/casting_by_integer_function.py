@@ -53,6 +53,18 @@ The string should be made up of 1 and 0 only, and the base should be 2.
 """
 l = int("110011", 2)
 print(l)
-
-
+"""
+The Decimal equivalent of binary number 110011 is 51.
+"""
+print("#######################################")
+"""
+Octal String to Integer
+The string should only contain 0 to 7 digits, and the base should be 8.
+"""
+m = int("20", 8)
+print(m)
+"""
+The Decimal equivalent of octal 20 is 16.
+"""
+print("#######################################")
 
