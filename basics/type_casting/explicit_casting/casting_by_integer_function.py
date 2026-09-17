@@ -67,4 +67,22 @@ print(m)
 The Decimal equivalent of octal 20 is 16.
 """
 print("#######################################")
+"""
+Hexa-Decimal String to Integer
+The string should contain only the Hexadecimal symbols i.e., 0-9 and A, B, C, D, E or F. Base should be 16.
+"""
+var_hexa = int("2A9", 16)
+print(var_hexa)
+"""
+Decimal equivalent of Hexadecimal 2A9 is 681. You can easily verify these conversions with calculator app in Windows, Ubuntu or Smartphones.
+
+Following is an example to convert number, float and string into integer data type:
+"""
+var_integer1 = int(1)     # a will be 1
+var_integer2 = int(2.2)   # b will be 2
+var_integer3 = int("3")   # c will be 3
+
+print (var_integer1)
+print (var_integer2)
+print (var_integer3)
 
