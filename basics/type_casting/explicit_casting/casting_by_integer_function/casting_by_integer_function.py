@@ -1,4 +1,5 @@
 """
+# CASTING BY INTEGER FUNCTION ****************************
 1-Python int() Function
 Python's built-in int() function converts an integer literal to an integer object, a float to integer, and
 a string to integer if the string itself has a valid integer literal representation.
