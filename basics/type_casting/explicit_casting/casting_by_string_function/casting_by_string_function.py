@@ -1,7 +1,6 @@
 """
 # CASTING BY STRING FUNCTION str() ****************************
 """
-from basics.type_casting.explicit_casting.casting_by_float_function.casting_by_float_function import var_float_2
 
 # Integer to string
 var_string_1 = str(10)
