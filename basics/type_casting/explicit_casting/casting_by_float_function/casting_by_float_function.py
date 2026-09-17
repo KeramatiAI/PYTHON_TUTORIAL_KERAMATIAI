@@ -1,3 +1,6 @@
+"""
+# CASTING BY FLOAT FUNCTION ****************************
+"""
 var_float_1 = float(9.99)
 print(type(var_float_1))
 
