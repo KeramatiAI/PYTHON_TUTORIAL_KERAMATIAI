@@ -24,3 +24,22 @@ print(var_string_4)
 var_string_5 = str(1.23e-4)
 print(type(var_string_5))
 print(var_string_5)
+"""
+When Boolean constant is entered as argument, it is surrounded by (') so that True becomes 'True'. 
+List and Tuple objects can also be given argument to str() function. The resultant string is the list/tuple surrounded by (').
+"""
+var_string_6 = str('True')
+print(type(var_string_6))
+print(var_string_6)
+
+var_string_7 = str([1,2,3])
+print(type(var_string_7))
+print(var_string_7)
+
+var_string_8 = str((1,2,3))
+print(type(var_string_8))
+print(var_string_8)
+
+var_string_9 = str({1:100, 2:200, 3:300})
+print(type(var_string_9))
+print(var_string_9)
