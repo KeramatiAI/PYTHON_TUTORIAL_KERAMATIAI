@@ -11,3 +11,25 @@ When you use integers as the operands, both are converted in equivalent binary, 
 a=60
 b=13
 print ("a:",a, "b:",b, "a&b:",a&b)
+
+"""
+To understand how Python performs the operation, obtain the binary equivalent of each variable.
+"""
+print ("a:", bin(a))
+print ("b:", bin(b))
+
+"""
+It will produce the following output −
+
+a: 0b111100
+b: 0b1101
+For the sake of convenience, use the standard 8-bit format for each number, so that "a" is 00111100 and "b" is 00001101. Let us manually perform and operation on each corresponding bits of these two numbers.
+
+0011 1100
+&
+0000 1101
+-------------
+0000 1100
+Convert the resultant binary back to integer. You'll get 12, which was the result obtained earlier.
+"""
+print(int('00001100',2))
