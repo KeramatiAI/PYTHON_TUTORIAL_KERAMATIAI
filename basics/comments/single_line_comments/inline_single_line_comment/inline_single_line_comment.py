@@ -1,0 +1,1 @@
+print("Hello, World!")  # Inline single line comment is placed here
