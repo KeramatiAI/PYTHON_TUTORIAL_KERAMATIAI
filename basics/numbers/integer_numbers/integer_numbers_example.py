@@ -23,4 +23,4 @@ print("octal: ",get_octal(c)," integer: ",c)
 print("hexadecimal: ",get_hexadecimal(d)," integer: ",d)
 
 e=a+b+c+d
-print ("addition:", e)
+print ("summation:", e)
