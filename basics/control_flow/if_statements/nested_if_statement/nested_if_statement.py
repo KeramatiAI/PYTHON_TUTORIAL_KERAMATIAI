@@ -1,11 +1,12 @@
-var = 100
-if ( var == 100 ):
-   print("The number is equal to 100")
-   if var % 2 == 0:
-      print("The number is even")
-   else:
-      print("The given number is odd")
-elif var == 0:
-   print("The given number is zero")
-else:
-   print("The given number is negative")
+"""
+if boolean_expression1:
+   statement(s)
+   if boolean_expression2:
+      statement(s)
+"""
+num = 36
+print ("num = ", num)
+if num % 2 == 0:
+   if num % 3 == 0:
+      print ("Divisible by 3 and 2")
+print("....execution ends....")
