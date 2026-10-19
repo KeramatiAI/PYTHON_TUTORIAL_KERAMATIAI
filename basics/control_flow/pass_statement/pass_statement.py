@@ -1,0 +1,23 @@
+"""
+Syntax of pass Statement
+Following is the syntax of Python pass statement −
+
+pass
+"""
+for letter in 'Python':
+   if letter == 'h':
+      pass
+      print ('This is pass block')
+   print ('Current Letter :', letter)
+print ("Good bye!")
+"""
+output:
+Current Letter : P
+Current Letter : y
+Current Letter : t
+This is pass block
+Current Letter : h
+Current Letter : o
+Current Letter : n
+Good bye!
+"""
