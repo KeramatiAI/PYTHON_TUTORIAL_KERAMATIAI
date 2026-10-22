@@ -1,0 +1,7 @@
+print ("comparison of tuples")
+a=(1,2,4)
+b=(1,2,3)
+print ("a=",a, "b=",b,"a<b is",a<b)
+print ("a=",a, "b=",b,"a>b is",a>b)
+print ("a=",a, "b=",b,"a==b is",a==b)
+print ("a=",a, "b=",b,"a!=b is",a!=b)
