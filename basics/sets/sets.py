@@ -1,4 +1,4 @@
-"""
+hi"""
 Sets in Python
 In Python, a set is an unordered collection of unique elements. Unlike lists or tuples, sets do not allow duplicate values i.e. each element in a set must be unique. Sets are mutable, meaning you can add or remove items after a set has been created.
 
@@ -16,3 +16,9 @@ You can directly define a set by listing its elements within curly braces, separ
 
 my_set = {1, 2, 3, 4, 5}
 print (my_set)
+
+"""
+It will produce the following result −
+
+{1, 2, 3, 4, 5}
+"""
