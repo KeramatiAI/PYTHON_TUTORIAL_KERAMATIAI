@@ -13,3 +13,6 @@ You can create a set in Python using curly braces {} or the set() function −
 Using Curly Braces
 You can directly define a set by listing its elements within curly braces, separating each element by a comma as shown below −
 """
+
+my_set = {1, 2, 3, 4, 5}
+print (my_set)
