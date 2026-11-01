@@ -7,4 +7,22 @@ Following is the syntax to add an element to a set −
 
 set.add(obj)
 Where, obj is an object of any immutable type.
+
+In the following example, we are initializing an empty set called "language" and adding elements to it using the add() method −
+"""
+# Defining an empty set
+language = set()
+
+# Adding elements to the set using add() method
+language.add("C")
+language.add("C++")
+language.add("Java")
+language.add("Python")
+
+# Printing the updated set
+print("Updated Set:", language)
+"""
+It will produce the following output −
+
+Updated Set: {'Python', 'Java', 'C++', 'C'}
 """
