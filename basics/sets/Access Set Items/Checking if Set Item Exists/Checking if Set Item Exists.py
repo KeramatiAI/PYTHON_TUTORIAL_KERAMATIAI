@@ -20,3 +20,9 @@ if "SQL" not in langs:
     print("SQL is not present in the set.")
 else:
     print("SQL is present in the set.")
+"""
+It will produce the following output −
+
+Java is present in the set.
+SQL is not present in the set.
+"""
