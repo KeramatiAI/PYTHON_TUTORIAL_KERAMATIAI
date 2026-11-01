@@ -27,3 +27,5 @@ The syntax for set comprehensions is similar to list comprehensions, but instead
 
 set_variable = {expression for item in iterable if condition}
 """
+squared_set = {x**2 for x in range(1, 6)}
+print(squared_set)
