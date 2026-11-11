@@ -5,7 +5,8 @@ Suppose you have created a Vector class to represent two-dimensional vectors, wh
 You could, however, define the __add__ method in your class to perform vector addition and then the plus operator would behave as per expectation −
 
 Example
-"""class Vector:
+"""
+class Vector:
    def __init__(self, a, b):
       self.a = a
       self.b = b
