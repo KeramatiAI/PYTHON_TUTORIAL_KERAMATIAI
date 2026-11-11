@@ -9,12 +9,12 @@ class JustCounter:
 
    def count(self):
       self.__secretCount += 1
-      print self.__secretCount
+      print(self.__secretCount)
 
 counter = JustCounter()
 counter.count()
 counter.count()
-print counter.__secretCount
+print(counter.__secretCount)
 """
 When the above code is executed, it produces the following result −
 
