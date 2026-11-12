@@ -34,5 +34,4 @@ Employee.showcount()
 There are four Employee objects now. If we run the above program, it will show the count of Employee object −
 
 4
-Access Cla
 """
