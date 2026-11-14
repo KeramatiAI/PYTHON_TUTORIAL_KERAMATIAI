@@ -33,4 +33,6 @@ When you run the above code, it will produce the following output −
 
 Draw a circle
 Draw a rectangle
+
+The variable shp first refers to circle object and calls draw() method from circle class. In next iteration, it refers to rectangle object and calls draw() method from rectangle class. Hence draw() method in shape class is polymorphic.
 """
