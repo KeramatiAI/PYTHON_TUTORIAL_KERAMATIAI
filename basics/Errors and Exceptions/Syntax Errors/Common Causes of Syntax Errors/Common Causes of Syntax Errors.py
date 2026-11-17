@@ -14,4 +14,4 @@ Misspelled keywords or incorrect use of keywords.
 prnt("Hello, World!")  
 Unmatched parentheses, brackets, or braces − Python requires that all opening parentheses (, square brackets [, and curly braces { have corresponding closing characters ), ], and }.
 # Error: The closing parenthesis is missing.
-print("This will cause a syntax error""""
+print("This will cause a syntax error"""
