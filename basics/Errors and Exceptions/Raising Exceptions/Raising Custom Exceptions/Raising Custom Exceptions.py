@@ -14,4 +14,4 @@ except MyCustomError as e:
 """Output of the above code is as shown below −
 
 Something went wrong in risky_function
-Creating Custom Exceptions"""
+"""
